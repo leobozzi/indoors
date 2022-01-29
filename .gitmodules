@@ -1,0 +1,4 @@
+[submodule "leobozzi/cl-indoors"]
+	path = leobozzi/cl-indoors
+	url = git@github.com:leobozzi/cl-indoors.git
+	branch = 15.0
